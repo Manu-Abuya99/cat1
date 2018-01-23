@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: arial,helvetica
+}
+.golf{
+	margin: auto;
+	width:90%;
+}
+
+.gamma{
+	text-align: center;
+	background: url(../images/ct.jpg);
+	background-size: cover;
+	color: white;
+}
+
+.pearl{
+	text-align:center;
+	
+}
+
+#wrapper{
+	text-align: center;
+	padding: 50px;
+}
+
+#delta{
+	float: left;
+	background: red;
+	height: 250px;
+	width: 400px;
+	text-align: center;
+}
+
+#echo{
+	float: left;
+	background: blue;
+	height: 250px;
+	width: 400px;
+}
+
+.header{
+	float: left;
+	margin-top: 5px;
+}
+
+.nav{
+	float: right;
+}
+
+.nav a{
+	color: black;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.nav li{
+	list-style: none;
+	display: inline;
+}
+h2{
+	border: solid black 1px;
+	margin: 20px 200px 20px 200px;
+}
+
+h4{
+	border: solid white 1px;
+	color: white;
+	margin: 15px 125px 15px 125px
+}
+#van{
+	float: left;
+	width: 80px;
+}
+
+#uan{
+	float: right;
+	width: 80px;
+}
+
+.fox{
+	margin: 50px;
+	padding: 1em;
+}
+
+.charlie{
+	background: black;
+	color: orange;
+
+
+}
